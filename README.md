@@ -1,7 +1,7 @@
 ### Hi I'm Xiangpeng (Elric) 👋
-I am a PhD student in Stevens Institute of Technology who is interested in Machine Learning, Natural Language Processing, and Software Developer.
+I currently work as a Research Scientist at ProtagoLabs Inc..
 
-### Project
+<!-- ### Project
 - 🔭 Content-based analysis for traditional media with NLP
 ●	Proposed an NLP-based information retrieval approach for social media using twitter API, BERT classification, and BERT question-answering models that collect real-time traffic data as a complementary source for official reports.
 - 🔭 Extract and Convert Social Media Text into Valuable Real-time Traffic Data
@@ -9,7 +9,7 @@ I am a PhD student in Stevens Institute of Technology who is interested in Machi
 - 🔭 Incremental Recommendation System for Large-scale Regular and Ride-hailing Taxi Services
 ●	Designed a smart recommendation system for human-driven and autonomous ride-hailing taxis by predicting the future potential customers using ARIMA and LSTM models. Reduce the average customer waiting time by 37%
 - 🔭 Urban Route Planning for Vehicles and Drones
-●	Developed an optimized route planning algorithm for both vehicles and drones using Mix Integer Linear programming and Dijkstra's algorithm. Saving average 16% travel time.
+●	Developed an optimized route planning algorithm for both vehicles and drones using Mix Integer Linear programming and Dijkstra's algorithm. Saving average 16% travel time. -->
 
 ### Skills and Expertise
 Languages: Python, SQL, JAVA, MATLAB, R
