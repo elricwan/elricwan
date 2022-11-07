@@ -12,13 +12,12 @@ I currently work as a Research Scientist at ProtagoLabs Inc..
 ●	Developed an optimized route planning algorithm for both vehicles and drones using Mix Integer Linear programming and Dijkstra's algorithm. Saving average 16% travel time. -->
 
 ### Skills and Expertise
-Languages: Python, SQL, JAVA, MATLAB, R
+Languages: Python
 
 Statistical & Analytical Techniques: Sampling, Significance Testing, Regression, Clustering, PCS, Regularization
 
-Data Analysis: Machine Learning, NLP, Pytorch, Spark
+Area: NLP, Generation model.
 
-Visualization Tools: Matplotlib, Seaborn, Plotly, Basemap, Excel
 
 <!--
 **xwan6/xwan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
