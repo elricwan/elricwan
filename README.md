@@ -14,8 +14,6 @@ I currently work as a Research Scientist at ProtagoLabs Inc..
 ### Skills and Expertise
 Languages: Python
 
-Statistical & Analytical Techniques: Sampling, Significance Testing, Regression, Clustering, PCS, Regularization
-
 Area: NLP, Generation model.
 
 
